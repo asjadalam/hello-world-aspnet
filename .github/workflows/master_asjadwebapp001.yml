@@ -53,4 +53,4 @@ jobs:
           app-name: 'AsjadWebApp001'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C1E30CB9AF274333AC4790382172F7C4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_44EF67384A724845BBC663343F962FEC }}
